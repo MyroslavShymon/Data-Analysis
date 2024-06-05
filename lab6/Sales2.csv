@@ -1,0 +1,218 @@
+Date,SKU,Product Name,City,Sales
+2023-01-01 0:00:00,1,Prateek England,Mumbai,93
+2023-01-01 0:00:00,2,Lucy Phillepe,Mumbai,36
+2023-01-01 0:00:00,3,Badlands,Mumbai,7
+2023-01-01 0:00:00,4,Allen Dolly,Mumbai,55
+2023-01-01 0:00:00,5,Bucchi,Mumbai,41
+2023-01-01 0:00:00,6,Jhaomi,Mumbai,0
+2023-01-01 0:00:00,7,Samson,Mumbai,17
+2023-01-01 0:00:00,8,Mokia,Mumbai,41
+2023-01-01 0:00:00,9,Hotorola,Mumbai,8
+2023-01-01 0:00:00,10,2plus,Mumbai,28
+2023-01-01 0:00:00,11,Harry putar,Mumbai,22
+2023-01-01 0:00:00,12,4 states,Mumbai,25
+2023-01-01 0:00:00,13,Shaktiman Returns,Mumbai,73
+2023-01-01 0:00:00,14,Goli's Travel,Mumbai,47
+2023-01-01 0:00:00,15,Story of Your Life,Mumbai,108
+2023-01-01 0:00:00,16,Prince of Dholakpur,Mumbai,12
+2023-01-01 0:00:00,17,Nario,Mumbai,117
+2023-01-01 0:00:00,18,Pacman,Mumbai,243
+2023-01-01 0:00:00,19,LTA Wise City,Mumbai,47
+2023-01-01 0:00:00,20,HIFA 2023,Mumbai,29
+2023-01-01 0:00:00,21,Abibas Football,Mumbai,7
+2023-01-01 0:00:00,22,Rural Terrain Cycles,Mumbai,13
+2023-01-01 0:00:00,23,Monex Badminton Rackets,Mumbai,11
+2023-01-01 0:00:00,24,Yoga Mattress,Mumbai,31
+2023-01-01 0:00:00,25,Rocky Gym Set,Mumbai,9
+2023-01-01 0:00:00,26,Pyllum Trimmers,Mumbai,1
+2023-01-01 0:00:00,27,Softcare Electric Toothbrush,Mumbai,9
+2023-01-01 0:00:00,28,Leg Messager,Mumbai,11
+2023-01-01 0:00:00,29,NoFat Weighing Scale,Mumbai,4
+2023-01-01 0:00:00,30,Screw Activity Watch,Mumbai,11
+2023-01-01 0:00:00,31,SureIt Purifier,Mumbai,9
+2023-01-01 0:00:00,32,Parrot Induction Stove,Mumbai,25
+2023-01-01 0:00:00,33,Jalepenoware Tiffin,Mumbai,13
+2023-01-01 0:00:00,34,Yamaka Rex 5000W Mixer Grinder,Mumbai,36
+2023-01-01 0:00:00,35,Mr.Clean Dishwasher,Mumbai,26
+2023-01-01 0:00:00,36,Blessing Atta 10kg pack,Mumbai,205
+2023-01-01 0:00:00,37,Amazing CornFlakes,Mumbai,49
+2023-01-01 0:00:00,38,Tata Yellow Label,Mumbai,41
+2023-01-01 0:00:00,39,Descafe Gold Blend coffee,Mumbai,4
+2023-01-01 0:00:00,40,Handmade Basmati Rice,Mumbai,99
+2023-01-01 0:00:00,41,Podigree Dog Food,Mumbai,103
+2023-01-01 0:00:00,42,Matty Dog Bed,Mumbai,75
+2023-01-01 0:00:00,43,Park Range Pet Shampoo,Mumbai,42
+2023-01-01 0:00:00,44,Old Mint Pet Shampoos,Mumbai,64
+2023-01-01 0:00:00,45,Reflective Dog RainCoat,Mumbai,10
+2023-01-01 0:00:00,46,Crafting Chandlar,Mumbai,6
+2023-01-01 0:00:00,47,Desi Kurti,Mumbai,86
+2023-01-01 0:00:00,48,Family Cake and Card Combo,Mumbai,124
+2023-01-01 0:00:00,49,Exact Flower Vase,Mumbai,99
+2023-01-01 0:00:00,50,Friends Dinner Set,Mumbai,144
+2023-01-02 0:00:00,1,Prateek England,Mumbai,20
+2023-01-02 0:00:00,2,Lucy Phillepe,Mumbai,9
+2023-01-02 0:00:00,3,Badlands,Mumbai,30
+2023-01-02 0:00:00,4,Allen Dolly,Mumbai,72
+2023-01-02 0:00:00,5,Bucchi,Mumbai,28
+2023-01-02 0:00:00,6,Jhaomi,Mumbai,30
+2023-01-02 0:00:00,7,Samson,Mumbai,30
+2023-01-02 0:00:00,8,Mokia,Mumbai,21
+2023-01-02 0:00:00,9,Hotorola,Mumbai,3
+2023-01-02 0:00:00,10,2plus,Mumbai,25
+2023-01-02 0:00:00,11,Harry putar,Mumbai,3
+2023-01-02 0:00:00,12,4 states,Mumbai,58
+2023-01-02 0:00:00,13,Shaktiman Returns,Mumbai,38
+2023-01-02 0:00:00,14,Goli's Travel,Mumbai,63
+2023-01-02 0:00:00,15,Story of Your Life,Mumbai,41
+2023-01-02 0:00:00,16,Prince of Dholakpur,Mumbai,74
+2023-01-02 0:00:00,17,Nario,Mumbai,32
+2023-01-02 0:00:00,18,Pacman,Mumbai,57
+2023-01-02 0:00:00,19,LTA Wise City,Mumbai,39
+2023-01-02 0:00:00,20,HIFA 2023,Mumbai,57
+2023-01-02 0:00:00,21,Abibas Football,Mumbai,67
+2023-01-02 0:00:00,22,Rural Terrain Cycles,Mumbai,8
+2023-01-02 0:00:00,23,Monex Badminton Rackets,Mumbai,26
+2023-01-02 0:00:00,24,Yoga Mattress,Mumbai,53
+2023-01-02 0:00:00,25,Rocky Gym Set,Mumbai,0
+2023-01-02 0:00:00,26,Pyllum Trimmers,Mumbai,1
+2023-01-02 0:00:00,27,Softcare Electric Toothbrush,Mumbai,9
+2023-01-02 0:00:00,28,Leg Messager,Mumbai,0
+2023-01-02 0:00:00,29,NoFat Weighing Scale,Mumbai,9
+2023-01-02 0:00:00,30,Screw Activity Watch,Mumbai,21
+2023-01-02 0:00:00,31,SureIt Purifier,Mumbai,23
+2023-01-02 0:00:00,32,Parrot Induction Stove,Mumbai,22
+2023-01-02 0:00:00,33,Jalepenoware Tiffin,Mumbai,12
+2023-01-02 0:00:00,34,Yamaka Rex 5000W Mixer Grinder,Mumbai,36
+2023-01-02 0:00:00,35,Mr.Clean Dishwasher,Mumbai,13
+2023-01-02 0:00:00,36,Blessing Atta 10kg pack,Mumbai,222
+2023-01-02 0:00:00,37,Amazing CornFlakes,Mumbai,56
+2023-01-02 0:00:00,38,Tata Yellow Label,Mumbai,93
+2023-01-02 0:00:00,39,Descafe Gold Blend coffee,Mumbai,26
+2023-01-02 0:00:00,40,Handmade Basmati Rice,Mumbai,179
+2023-01-02 0:00:00,41,Podigree Dog Food,Mumbai,68
+2023-01-02 0:00:00,42,Matty Dog Bed,Mumbai,58
+2023-01-02 0:00:00,43,Park Range Pet Shampoo,Mumbai,97
+2023-01-02 0:00:00,44,Old Mint Pet Shampoos,Mumbai,44
+2023-01-02 0:00:00,45,Reflective Dog RainCoat,Mumbai,44
+2023-01-02 0:00:00,46,Crafting Chandlar,Mumbai,49
+2023-01-02 0:00:00,47,Desi Kurti,Mumbai,101
+2023-01-02 0:00:00,48,Family Cake and Card Combo,Mumbai,141
+2023-01-02 0:00:00,49,Exact Flower Vase,Mumbai,36
+2023-01-02 0:00:00,50,Friends Dinner Set,Mumbai,122
+2023-01-03 0:00:00,1,Prateek England,Mumbai,79
+2023-01-03 0:00:00,2,Lucy Phillepe,Mumbai,12
+2023-01-03 0:00:00,3,Badlands,Mumbai,13
+2023-01-03 0:00:00,4,Allen Dolly,Mumbai,20
+2023-01-03 0:00:00,5,Bucchi,Mumbai,45
+2023-01-03 0:00:00,6,Jhaomi,Mumbai,8
+2023-01-03 0:00:00,7,Samson,Mumbai,25
+2023-01-03 0:00:00,8,Mokia,Mumbai,50
+2023-01-03 0:00:00,9,Hotorola,Mumbai,23
+2023-01-03 0:00:00,10,2plus,Mumbai,3
+2023-01-03 0:00:00,11,Harry putar,Mumbai,77
+2023-01-03 0:00:00,12,4 states,Mumbai,56
+2023-01-03 0:00:00,13,Shaktiman Returns,Mumbai,113
+2023-01-03 0:00:00,14,Goli's Travel,Mumbai,100
+2023-01-03 0:00:00,15,Story of Your Life,Mumbai,49
+2023-01-03 0:00:00,16,Prince of Dholakpur,Mumbai,86
+2023-01-03 0:00:00,17,Nario,Mumbai,204
+2023-01-03 0:00:00,18,Pacman,Mumbai,26
+2023-01-03 0:00:00,19,LTA Wise City,Mumbai,30
+2023-01-03 0:00:00,20,HIFA 2023,Mumbai,260
+2023-01-03 0:00:00,21,Abibas Football,Mumbai,14
+2023-01-03 0:00:00,22,Rural Terrain Cycles,Mumbai,0
+2023-01-03 0:00:00,23,Monex Badminton Rackets,Mumbai,37
+2023-01-03 0:00:00,24,Yoga Mattress,Mumbai,61
+2023-01-03 0:00:00,25,Rocky Gym Set,Mumbai,48
+2023-01-03 0:00:00,26,Pyllum Trimmers,Mumbai,5
+2023-01-03 0:00:00,27,Softcare Electric Toothbrush,Mumbai,1
+2023-01-03 0:00:00,28,Leg Messager,Mumbai,6
+2023-01-03 0:00:00,29,NoFat Weighing Scale,Mumbai,10
+2023-01-03 0:00:00,30,Screw Activity Watch,Mumbai,7
+2023-01-03 0:00:00,31,SureIt Purifier,Mumbai,20
+2023-01-03 0:00:00,32,Parrot Induction Stove,Mumbai,13
+2023-01-03 0:00:00,33,Jalepenoware Tiffin,Mumbai,7
+2023-01-03 0:00:00,34,Yamaka Rex 5000W Mixer Grinder,Mumbai,13
+2023-01-03 0:00:00,35,Mr.Clean Dishwasher,Mumbai,38
+2023-01-03 0:00:00,36,Blessing Atta 10kg pack,Mumbai,197
+2023-01-03 0:00:00,37,Amazing CornFlakes,Mumbai,88
+2023-01-03 0:00:00,38,Tata Yellow Label,Mumbai,45
+2023-01-03 0:00:00,39,Descafe Gold Blend coffee,Mumbai,82
+2023-01-03 0:00:00,40,Handmade Basmati Rice,Mumbai,36
+2023-01-03 0:00:00,41,Podigree Dog Food,Mumbai,125
+2023-01-03 0:00:00,42,Matty Dog Bed,Mumbai,39
+2023-01-03 0:00:00,43,Park Range Pet Shampoo,Mumbai,61
+2023-01-03 0:00:00,44,Old Mint Pet Shampoos,Mumbai,9
+2023-01-03 0:00:00,45,Reflective Dog RainCoat,Mumbai,91
+2023-01-03 0:00:00,46,Crafting Chandlar,Mumbai,18
+2023-01-03 0:00:00,47,Desi Kurti,Mumbai,62
+2023-01-03 0:00:00,48,Family Cake and Card Combo,Mumbai,128
+2023-01-03 0:00:00,49,Exact Flower Vase,Mumbai,67
+2023-01-03 0:00:00,50,Friends Dinner Set,Mumbai,104
+2023-01-04 0:00:00,1,Prateek England,Mumbai,40
+2023-01-04 0:00:00,2,Lucy Phillepe,Mumbai,9
+2023-01-04 0:00:00,3,Badlands,Mumbai,82
+2023-01-04 0:00:00,4,Allen Dolly,Mumbai,29
+2023-01-04 0:00:00,5,Bucchi,Mumbai,36
+2023-01-04 0:00:00,6,Jhaomi,Mumbai,53
+2023-01-04 0:00:00,7,Samson,Mumbai,48
+2023-01-04 0:00:00,8,Mokia,Mumbai,15
+2023-01-04 0:00:00,9,Hotorola,Mumbai,36
+2023-01-04 0:00:00,10,2plus,Mumbai,42
+2023-01-04 0:00:00,11,Harry putar,Mumbai,20
+2023-01-04 0:00:00,12,4 states,Mumbai,35
+2023-01-04 0:00:00,13,Shaktiman Returns,Mumbai,47
+2023-01-04 0:00:00,14,Goli's Travel,Mumbai,51
+2023-01-04 0:00:00,15,Story of Your Life,Mumbai,54
+2023-01-04 0:00:00,16,Prince of Dholakpur,Mumbai,208
+2023-01-04 0:00:00,17,Nario,Mumbai,12
+2023-01-04 0:00:00,18,Pacman,Mumbai,99
+2023-01-04 0:00:00,19,LTA Wise City,Mumbai,21
+2023-01-04 0:00:00,20,HIFA 2023,Mumbai,216
+2023-01-04 0:00:00,21,Abibas Football,Mumbai,37
+2023-01-04 0:00:00,22,Rural Terrain Cycles,Mumbai,5
+2023-01-04 0:00:00,23,Monex Badminton Rackets,Mumbai,7
+2023-01-04 0:00:00,24,Yoga Mattress,Mumbai,55
+2023-01-04 0:00:00,25,Rocky Gym Set,Mumbai,29
+2023-01-04 0:00:00,26,Pyllum Trimmers,Mumbai,26
+2023-01-04 0:00:00,27,Softcare Electric Toothbrush,Mumbai,22
+2023-01-04 0:00:00,28,Leg Messager,Mumbai,1
+2023-01-04 0:00:00,29,NoFat Weighing Scale,Mumbai,3
+2023-01-04 0:00:00,30,Screw Activity Watch,Mumbai,0
+2023-01-04 0:00:00,31,SureIt Purifier,Mumbai,0
+2023-01-04 0:00:00,32,Parrot Induction Stove,Mumbai,6
+2023-01-04 0:00:00,33,Jalepenoware Tiffin,Mumbai,32
+2023-01-04 0:00:00,34,Yamaka Rex 5000W Mixer Grinder,Mumbai,12
+2023-01-04 0:00:00,35,Mr.Clean Dishwasher,Mumbai,20
+2023-01-04 0:00:00,36,Blessing Atta 10kg pack,Mumbai,67
+2023-01-04 0:00:00,37,Amazing CornFlakes,Mumbai,41
+2023-01-04 0:00:00,38,Tata Yellow Label,Mumbai,12
+2023-01-04 0:00:00,39,Descafe Gold Blend coffee,Mumbai,39
+2023-01-04 0:00:00,40,Handmade Basmati Rice,Mumbai,190
+2023-01-04 0:00:00,41,Podigree Dog Food,Mumbai,9
+2023-01-04 0:00:00,42,Matty Dog Bed,Mumbai,21
+2023-01-04 0:00:00,43,Park Range Pet Shampoo,Mumbai,19
+2023-01-04 0:00:00,44,Old Mint Pet Shampoos,Mumbai,6
+2023-01-04 0:00:00,45,Reflective Dog RainCoat,Mumbai,34
+2023-01-04 0:00:00,46,Crafting Chandlar,Mumbai,10
+2023-01-04 0:00:00,47,Desi Kurti,Mumbai,56
+2023-01-04 0:00:00,48,Family Cake and Card Combo,Mumbai,52
+2023-01-04 0:00:00,49,Exact Flower Vase,Mumbai,38
+2023-01-04 0:00:00,50,Friends Dinner Set,Mumbai,124
+2023-01-05 0:00:00,1,Prateek England,Mumbai,81
+2023-01-05 0:00:00,2,Lucy Phillepe,Mumbai,66
+2023-01-05 0:00:00,3,Badlands,Mumbai,20
+2023-01-05 0:00:00,4,Allen Dolly,Mumbai,25
+2023-01-05 0:00:00,5,Bucchi,Mumbai,58
+2023-01-05 0:00:00,6,Jhaomi,Mumbai,7
+2023-01-05 0:00:00,7,Samson,Mumbai,35
+2023-01-05 0:00:00,8,Mokia,Mumbai,53
+2023-01-05 0:00:00,9,Hotorola,Mumbai,46
+2023-01-05 0:00:00,10,2plus,Mumbai,12
+2023-01-05 0:00:00,11,Harry putar,Mumbai,58
+2023-01-05 0:00:00,12,4 states,Mumbai,41
+2023-01-05 0:00:00,13,Shaktiman Returns,Mumbai,45
+2023-01-05 0:00:00,14,Goli's Travel,Mumbai,60
+2023-01-05 0:00:00,15,Story of Your Life,Mumbai,38
+2023-01-05 0:00:00,16,Prince of Dholakpur,Mumbai,13
+2023-01-05 0:00:00,17,Nario,Mumbai,12
